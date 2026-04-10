@@ -1,0 +1,54 @@
+{
+  "jobs": [
+    {
+      "title": "Ai Ml Engineer",
+      "company": "Next Education India",
+      "location": "Hyderabad",
+      "description": "LLM and RAG Systems : Practical experience building Retrieval-Augmented Generation (RAG) or agentic AI systems using frameworks such as LangChain or similar frameworksOpen-source LLM Deployment: Experience deploying or working with open-source lar...",
+      "link": "https://www.ambitionbox.com/reviews/next-education-india-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=ef15ca38f3874139bf35ec5f71a78789",
+      "source": "Naukri",
+      "score": 95,
+      "reason": "Strong ML/NLP/CV alignment and hands-on engineering role. The job description mentions building Retrieval-Augmented Generation (RAG) or agentic AI systems, which aligns well with the candidate's experience in NLP (sentiment analysis using LSTM) and Deep Learning (CNN-based image classification). Additionally, the focus on practical experience deploying open-source LLM frameworks is a strong match for the candidate's hands-on engineering background."
+    },
+    {
+      "title": "ML Engineer",
+      "company": "Siemens",
+      "location": "Bengaluru",
+      "description": "Key Responsibilities- Design, develop, and deploy ML and LLM-powered applications into production- Build end-to-end ML & GenAI pipelines (data evaluation deployment monitoring)- Develop agentic systems using LLMs (multi-step reasoning, tool usage,...",
+      "link": "https://www.ambitionbox.com/reviews/siemens-india-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=ef15ca38f3874139bf35ec5f71a78789",
+      "source": "Naukri",
+      "score": 92,
+      "reason": "Strong ML alignment with hands-on engineering role. Experience in NLP and deep learning matches well with Siemens' requirements. However, slight mismatch in experience level (0-3 years preferred vs. candidate's experience not specified)."
+    },
+    {
+      "title": "Artificial Intelligence Engineer",
+      "company": "Adsparkx Media",
+      "location": "Gurugram",
+      "description": "Role Overview:We are looking for an AI Engineer with strong expertise in Generative AI to join our dynamic team. The ideal candidate will design, develop, and deploy AI/ML models, focusing on generative applications that power creativity and autom...",
+      "link": "https://www.ambitionbox.com/reviews/adsparkx-media-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=ef15ca38f3874139bf35ec5f71a78789",
+      "source": "Naukri",
+      "score": 89,
+      "reason": "The role aligns well with candidate's NLP and ML experience. However, it seems to focus more on generative AI, which might not be a direct match for the candidate's expertise. The lack of hands-on ML work in the job description is a minor drawback."
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Procdna Analytics",
+      "location": "Hybrid - Pune, Bengaluru, Gurugram",
+      "description": "Bachelor s or master s degree in computer science, Statistics, Mathematics, Data Science, or related fields Required Skill Preferred Skills Strong hands-on experience in Python, PySpark, and SQL for manipulating and handling large structured and u...",
+      "link": "https://www.ambitionbox.com/reviews/procdna-reviews?utm_campaign=srp_ratings&utm_medium=desktop&utm_source=naukri&cvid=ef15ca38f3874139bf35ec5f71a78789",
+      "source": "Naukri",
+      "score": 89,
+      "reason": "Strong ML/NLP alignment and hands-on experience in PyTorch/TensorFlow. However, the job requires strong experience in SQL and PySpark, which may require additional learning for the candidate."
+    },
+    {
+      "title": "Data Analyst- Analytics (AI/ML)",
+      "company": "Client of Edge",
+      "location": "Noida, Delhi / NCR, Gurugram",
+      "description": "Masters in Math, Stats, or MBA Preferred Qualifications Experience in analytics / data science roles experience with data modeling and queries Experience with dashboards (Power BI or similar) Experience in digital marketing / campaign analytics",
+      "link": "",
+      "source": "Naukri",
+      "score": 75,
+      "reason": "Strong ML alignment with NLP and CV experience. However, lack of hands-on ML work and consulting role requirement may not fully utilize candidate's skills."
+    }
+  ]
+}
