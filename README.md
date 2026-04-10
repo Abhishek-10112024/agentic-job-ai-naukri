@@ -81,7 +81,7 @@ Streamlit UI (Deployed Demo)
 
 ## 🌐 Live Demo
 
-🔗 [View Deployed App](https://your-app-name.streamlit.app)
+🔗 [View Deployed App](https://agentic-job-ai-naukri-pnij4svfncb9jqez5vfypn.streamlit.app/)
 
 ⚠️ **Note:** This is a demo version. Full system runs locally with live scraping and LLM processing.
 
